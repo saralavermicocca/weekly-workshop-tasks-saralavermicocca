@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.unitDisplay {
+  padding: 10px;
+}
+
+.unitDisplay button {
+  background-color: #DDA0DD;
+  color: white;
+  margin: 8px 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+h2{
+  background-color: #DDA0DD;
+  text-align: center;
+
+}
+
+.App {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+hr {
+  border-top: 1px dashed #DDA0DD;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #DDA0DD;
+  border-radius: 4px;
+}
+
+
+
+.checkboxes {
+  text-align:center;
+ }
+
+
+ .checkboxes label{
+   margin: 100px 20px 0px 3px;
+ }
+
+
+input[type=submit] {
+  background-color: #DDA0DD;
+  width: 100%;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
